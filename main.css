@@ -1,0 +1,35 @@
+.body{
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.background{
+    background: url(img/king.jpg);
+}
+.KING{
+    background: rgba(0, 0, 0, 0.7)url(Img/king.jpg);
+padding: 60px;
+text-align: center;
+background-color: green;
+color: white;
+}
+.KING{
+    font-size: xx-large;
+}
+.king{
+    overflow: hidden;
+    background-color: #333;
+}
+.king a{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.king a.right{
+    float: right;
+}
+.king a:hover{
+    background-color: blueviolet;
+    color: white;
+}
